@@ -30,8 +30,11 @@ Step：
 Tip: A little trick that can improve the success rate. After failure, first turn off the network switch of PS4 or disconnect the network cable, then turn it on and try again！
 
 Special thanks Andy for his efforts!
+
 Special thanks @Lightnigmods for stage2
+
 Special thanks @echostrech for ps4 hen
+
 Special thanks @psgocn for pppwngo 2.6.2
 
 
