@@ -6,8 +6,8 @@ Supported versions:
 - FW 8.00 / 8.01 / 8.03
 - FW 8.50 / 8.52
 - FW 9.00（GoldHEN）
-- FW 9.03 / 9.04
-- FW 9.50 / 9.51 / 9.60
+- FW 9.03 / 9.04 (Ps4Hen)
+- FW 9.50 / 9.60 (Ps4Hen)
 - FW 10.00 / 10.01（GoldHEN）
 - FW 10.50 / 10.70 / 10.71
 - FW 11.00（GoldHEN）
